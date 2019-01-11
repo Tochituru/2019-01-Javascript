@@ -22,3 +22,4 @@ var valor2 = false;
 
 console.log ("and: si ambos son true, arroja true", valor1 && valor2);
 console.log ("or: si alguno es true, arroja true", valor1 || valor2)
+console.log ("Not: si alguno es false, arroja true", valor1 != valor2)
