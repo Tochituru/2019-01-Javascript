@@ -49,10 +49,10 @@ var numero1;
 var numero2;
 
 numero1 = prompt ('Ingresa tu mes de nacimiento: ', '');
-document.write ('<br/>');
-document.write ('<br/>');
 numero2 = prompt ('Ingresa tu día de nacimiento', '');
 document.write ('Tu fecha de nacimiento es ', numero2, '/', numero1, '.');
+document.write ('<br/>');
+document.write ('<br/>');
 document.write ('<br/>');
 document.write ('Por lo tanto, eres insoportable.')
 
