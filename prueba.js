@@ -57,4 +57,4 @@ document.write ('<br/>');
 document.write ('Por lo tanto, eres insoportable.')
 
 alert ('¡Gracias por operar con nosotres!')
-
+//envía un mensaje emergente; es solo una notificación//
